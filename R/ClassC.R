@@ -1,12 +1,23 @@
-#' @keywords internal
-.ClassC <- R6::R6Class(
-  ".ClassC",
+#' R6 Child class of `.ClassA`
+#'
+#' @description
+#' One of the test classes.
+#' @export
+ClassC <- R6::R6Class(
+  "ClassC",
   inherit = .ClassA,
   public = list(
-    f1 = function(p1, p2) {
+    #' @description
+    #' First test method.
+    #' @return There is no to return - print some message
+    f1 = function() {
       print("ClassC$f1")
     },
-    f2 = function(p3) {
+
+    #' @description
+    #' Second test method.
+    #' @return There is no to return - print some message
+    f2 = function() {
       print("ClassC$f2")
     }
   )

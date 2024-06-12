@@ -4,7 +4,7 @@
 \alias{ClassMaker}
 \title{R6 ClassMaker}
 \description{
-Creates \code{.ClassB} or \code{.ClassC} with \code{ClassMaker$make()} function.
+Creates \code{ClassB} or \code{ClassC} with \code{ClassMaker$make()} function.
 }
 \examples{
 
@@ -14,6 +14,8 @@ Creates \code{.ClassB} or \code{.ClassC} with \code{ClassMaker$make()} function.
 
 class_maker <- ClassMaker$new()
 myBClass <- class_maker$make(utils.ClassType$BType)
+myBClass$f1()
+myBClass$f2()
 }
 \section{Methods}{
 \subsection{Public methods}{
@@ -26,7 +28,7 @@ myBClass <- class_maker$make(utils.ClassType$BType)
 \if{html}{\out{<a id="method-ClassMaker-make"></a>}}
 \if{latex}{\out{\hypertarget{method-ClassMaker-make}{}}}
 \subsection{Method \code{make()}}{
-Creates \code{.ClassB} or \code{.ClassC}.
+Creates \code{ClassB} or \code{ClassC}.
 \subsection{Usage}{
 \if{html}{\out{<div class="r">}}\preformatted{ClassMaker$make(type)}\if{html}{\out{</div>}}
 }
@@ -45,6 +47,8 @@ New R6Class object if type is valid, otherwise - NULL
 \if{html}{\out{<div class="r example copy">}}
 \preformatted{class_maker <- ClassMaker$new()
 myBClass <- class_maker$make(utils.ClassType$BType)
+myBClass$f1()
+myBClass$f2()
 }
 \if{html}{\out{</div>}}
 
