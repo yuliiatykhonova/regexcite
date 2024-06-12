@@ -19,6 +19,8 @@ reference:
   desc: >
     These are classes to test writting a documentation for a package.
   contents:
+  - ClassB
+  - ClassC
   - ClassMaker
 
 - title: T3 - Utils
