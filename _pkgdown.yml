@@ -28,3 +28,5 @@ reference:
   contents:
   - has_concept("utils")
 
+development:
+  mode: auto
