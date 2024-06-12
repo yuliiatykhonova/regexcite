@@ -2,3 +2,27 @@ url: https://yuliiatykhonova.github.io/regexcite/
 template:
   bootstrap: 5
 
+reference:
+- title: T1 - Test functions
+  desc: >
+    These are functions to test writting a documentation for a package.
+
+- subtitle: T1.S1
+  desc: First subtitle
+  contents:
+  - str_split_one
+
+- subtitle: T1.S2
+  desc: Second subtitle
+
+- title: T2 - Test classes
+  desc: >
+    These are classes to test writting a documentation for a package.
+  contents:
+  - ClassMaker
+
+- title: T3 - Utils
+  desc: Important utils.
+  contents:
+  - has_concept("utils")
+
