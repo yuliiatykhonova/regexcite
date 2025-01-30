@@ -1,51 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/404.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/LICENSE-text.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/LICENSE.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/articles/article1.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/articles/index.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/articles/vignette1.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/authors.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/index.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/news/index.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/reference/ClassB.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/reference/ClassC.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/reference/ClassMaker.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/reference/dot-ClassA.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/reference/index.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/reference/str_split_one.html</loc>
-  </url>
-  <url>
-    <loc>https://yuliiatykhonova.github.io/regexcite/reference/utils.ClassType.html</loc>
-  </url>
+<urlset xmlns = 'http://www.sitemaps.org/schemas/sitemap/0.9'>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/404.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/LICENSE-text.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/LICENSE.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/articles/article1.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/articles/index.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/articles/vignette1.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/authors.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/index.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/news/index.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/reference/ClassB.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/reference/ClassC.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/reference/ClassMaker.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/reference/dot-ClassA.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/reference/index.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/reference/str_split_one.html</loc></url>
+<url><loc>https://yuliiatykhonova.github.io/regexcite/reference/utils.ClassType.html</loc></url>
 </urlset>
+
